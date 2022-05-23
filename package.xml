@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package format="2">
+
+  <!-- BASIC INFORMATION -->
+  <name>herohernan-ros-templates-cpp</name>
+  <version>1.0</version>
+  <description>cpp templates created for ROS by Herohernan</description>
+  <url type="webside">https://github.com/herohernan/herohernan-ros-templates-cpp</url>
+  
+  <!-- AUTHOR AND LICENSE -->
+  <maintainer email="hernanhernandezingeniero@gmail.com">herohernan (Hernán Hernández)</maintainer>
+  <author email="hernanhernandezingeniero@gmail.com">herohernan (Hernán Hernández)</author> 
+  <license>BSD 2-Clause License, Copyright (c) 2022, Hernán Hernández</license>
+
+  <!-- DEPENDENCIES -->
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <build_export_depend>std_msgs</build_export_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <!-- EXPORT -->
+  <export>
+  </export>
+</package>
