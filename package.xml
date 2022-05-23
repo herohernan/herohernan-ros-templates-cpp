@@ -3,9 +3,9 @@
 
   <!-- BASIC INFORMATION -->
   <name>herohernan-ros-templates-cpp</name>
-  <version>1.0</version>
+  <version>1.0.0</version>
   <description>cpp templates created for ROS by Herohernan</description>
-  <url type="webside">https://github.com/herohernan/herohernan-ros-templates-cpp</url>
+  <url type="website">https://github.com/herohernan/herohernan-ros-templates-cpp</url>
   
   <!-- AUTHOR AND LICENSE -->
   <maintainer email="hernanhernandezingeniero@gmail.com">herohernan (Hernán Hernández)</maintainer>
